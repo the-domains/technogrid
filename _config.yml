@@ -1,0 +1,14 @@
+layout_spectrum: 0.32351053738966584
+typography_spectrum: 0.9433241987135261
+color:
+  brandStrength: 0.03317581955343485
+  lightness: 0.36164467548951507
+  saturation: 0.2575495345517993
+  rhythmicContrast: 0.5067845401354134
+  brandColors:
+    - '#36362C'
+    - '#5D917D'
+    - '#A8AD80'
+    - '#E6D4A7'
+    - '#825534'
+name: technogrid
