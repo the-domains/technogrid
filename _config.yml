@@ -6,9 +6,9 @@ color:
   saturation: 0.2575495345517993
   rhythmicContrast: 0.5067845401354134
   brandColors:
-    - '#36362C'
-    - '#5D917D'
-    - '#A8AD80'
-    - '#E6D4A7'
-    - '#825534'
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
 name: technogrid
